@@ -6,3 +6,4 @@
 - Creating and approving a Pull request.
 - Resolving a merge conflict
 - and more...
+- and more..
